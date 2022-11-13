@@ -9,4 +9,4 @@ const Client = new Discord.Client({
 })
 
 
-client.login('...')
+Client.login('...')
