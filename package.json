@@ -1,0 +1,28 @@
+{
+  "name": "ZeroTwo",
+  "version": "1.0.0",
+  "description": "An all-in-one bot for your Discord server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Empty™",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "@discordjs/voice": "^0.13.0",
+    "glob": "^8.0.1",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "util": "^0.12.4",
+    "simple-get": "^4.0.1",
+    "axios": "^1.1.3",
+    "undici": "^5.12.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "lodash-2": "^1.0.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
